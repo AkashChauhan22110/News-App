@@ -2,17 +2,6 @@
 
 Welcome to the News App repository! This is a simple web application that provides a user-friendly interface to view and read the latest news articles. It is built using HTML, CSS, and JavaScript.
 
-## Table of Contents
-
-- [Features](#features)
-- [Demo](#demo)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - Browse and read the latest news articles.
@@ -22,7 +11,7 @@ Welcome to the News App repository! This is a simple web application that provid
 
 ## Demo
 
-You can try out the live demo of the News App [here](https://your-news-app-url.com).
+You can try out the live demo of the News App [here](https://github.com/AkashChauhan22110/News-App/).
 
 ## Prerequisites
 
@@ -37,4 +26,4 @@ To get a copy of this project up and running on your local machine, follow these
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/news-app.git
+git clone https://github.com/Akashchauhan22110/News-App.git
